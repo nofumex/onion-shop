@@ -1,0 +1,8 @@
+.env
+.idea/
+__pycache__/
+venv/
+sales.json
+users.json
+data/
+
